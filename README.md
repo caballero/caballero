@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a bioinformatician hacking genomes.
+
 <!--
 **caballero/caballero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
